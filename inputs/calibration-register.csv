@@ -1,0 +1,14 @@
+station_id,device_id,device_name,last_calibrated,interval_days,active,revision,technician
+LN-01,SC-100,Bench Scale,2074-03-01,90,yes,1,Amina Vale
+LN-01,SC-100,Bench Scale,2074-03-04,90,yes,2,Amina Vale
+LN-01,TH-210,Thermal Probe,2074-04-15,30,yes,1,Ben Ito
+LN-02,PR-330,Pressure Gauge,2074-02-20,120,yes,3,Cora Nix
+LN-02,PR-330,Pressure Gauge,2074-02-25,120,yes,3,Cora Nix
+LN-03,PH-440,pH Meter,2074-05-01,45,no,2,Dane Wu
+LN-04,SP-500,Speed Sensor,2074-01-31,180,yes,1,Eli Roe
+LN-05,SC-101,Floor Scale,2074-04-20,60,yes,1,Faye Lin
+BAD,RF-610,RF Reader,2074-03-01,90,yes,1,Gio Ray
+LN-06,TM-700,Timer,2074-02-30,30,yes,1,Hana Sol
+LN-07,LT-800,Light Meter,2074-03-10,0,yes,1,Ivo Kent
+LN-08,CM-900,Clamp Meter,2074-03-18,90,yes,0,Jae Moon
+LN-05,SC-101,Floor Scale,2074-04-20,60,yes,1,Faye Lin
