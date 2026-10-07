@@ -1,0 +1,20 @@
+{
+  "as_of": "2074-05-31T23:59:59Z",
+  "summary": {
+    "controlled_devices": 5,
+    "docket_devices": 1,
+    "overdue": 1,
+    "due_today": 0
+  },
+  "devices": [
+    {
+      "station_id": "LN-01",
+      "device_id": "TH-210",
+      "device_name": "Thermal Probe",
+      "technician": "Ben Ito",
+      "due_date": "2074-05-25",
+      "status": "overdue",
+      "days_past_due": 6
+    }
+  ]
+}
